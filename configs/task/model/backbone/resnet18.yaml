@@ -1,0 +1,4 @@
+defaults:
+  - resnet18_schema
+
+pretrained: true

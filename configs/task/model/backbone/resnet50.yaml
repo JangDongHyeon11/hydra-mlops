@@ -1,0 +1,4 @@
+defaults:
+  - resnet50_schema
+
+pretrained: true
